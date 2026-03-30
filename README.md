@@ -35,4 +35,4 @@ Prepared a case study on phishing
 Created a prevention checklist for online safety
 🔗 Links
 Google Form Quiz: https://docs.google.com/forms/d/e/1FAIpQLSfb_Qd8EkV04iru3-a_ngLhmF6IbsNoPRZwnO038UWfbNbM3g/viewform?usp=publish-editor
-📁 Repository Structure
+📁 Repository Structure 
