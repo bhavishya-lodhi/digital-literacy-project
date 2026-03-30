@@ -18,6 +18,7 @@ This repository contains all five tasks related to digital awareness, online pre
 
 
 📂 Module Summary
+
 🔹 Task 1: Digital Literacy Infographic
 Created an infographic using Canva explaining:
 
